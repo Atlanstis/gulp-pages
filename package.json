@@ -1,0 +1,8 @@
+{
+  "name": "gulp-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Atlanstis/gulp-pages.git",
+  "author": "Gypsophila. <futur_@163.com>",
+  "license": "MIT"
+}
